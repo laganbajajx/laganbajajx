@@ -120,7 +120,6 @@ Investigated vulnerabilities in genomic databases and bioinformatics pipelines. 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-bajajlagan0501@gmail.com-red?style=for-the-badge)](mailto:bajajlagan0501@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/lagan-bajaj-803355312/)
 
-📞 +91 7986044234
 
 </div>
 
