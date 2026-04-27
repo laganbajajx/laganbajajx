@@ -53,20 +53,6 @@ I'm a **Biotechnology undergraduate at Bennett University** (Greater Noida) pass
 ![GEO Datasets](https://img.shields.io/badge/GEO_Datasets-1A535C?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
----
-
-
-### 📊 Differential Gene Expression Analysis in Disease Conditions
-> Analyzed GEO datasets to identify differentially expressed genes. Identified key upregulated and downregulated genes associated with disease pathways.
-
-**Tools:** R · Excel · GEO Datasets
-
----
-
-### 🐍 Snake Venom Therapeutics Study *(Ongoing)*
-> Analyzing venom-derived protein sequences using BLAST and NCBI databases. Identifying functional domains and potential therapeutic targets relevant to drug discovery.
-
-**Tools:** BLAST · NCBI
 
 ---
 
