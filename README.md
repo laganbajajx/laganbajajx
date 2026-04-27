@@ -55,21 +55,6 @@ I'm a **Biotechnology undergraduate at Bennett University** (Greater Noida) pass
 
 ---
 
-## 🚀 Projects
-
-### 🦠 Antibiotic Resistance Study *(Wet Lab + Computational Analysis)*
-> Investigated bacterial resistance patterns using disc diffusion assays under varying conditions. Observed variation in resistance profiles across antibiotics, revealing differential susceptibility of bacterial strains.
-
-**Tools:** Aseptic Techniques · Disc Diffusion Assay · Data Interpretation
-
----
-
-### 🧩 Protein Structure Prediction & Analysis
-> Predicted protein 3D structures using AlphaFold and SWISS-MODEL, then visualized them in PyMOL to interpret functional characteristics and potential molecular interactions.
-
-**Tools:** AlphaFold · SWISS-MODEL · PyMOL
-
----
 
 ### 📊 Differential Gene Expression Analysis in Disease Conditions
 > Analyzed GEO datasets to identify differentially expressed genes. Identified key upregulated and downregulated genes associated with disease pathways.
@@ -85,13 +70,6 @@ I'm a **Biotechnology undergraduate at Bennett University** (Greater Noida) pass
 
 ---
 
-## 🔍 Research Work
-
-### 🛡️ Cyber-Biosecurity & Gene Data Security Analysis
-Investigated vulnerabilities in genomic databases and bioinformatics pipelines. Analyzed risks related to gene data breaches and explored strategies to improve security and integrity of biological data systems.
-
----
-
 ## 🎯 Research Interests
 
 ```
@@ -101,29 +79,6 @@ Investigated vulnerabilities in genomic databases and bioinformatics pipelines. 
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Location | Score |
-|--------|-------------|----------|-------|
-| **B.Tech – Biotechnology** | Bennett University | Greater Noida, India | SGPA: 8.08 |
-| Class XII – PCB | Kendriya Vidyalaya, Mohali | Punjab, India | — |
-| Class X | Kendriya Vidyalaya, Jalandhar | Punjab, India | — |
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-**Interested in bioinformatics collaborations, research discussions, or just want to connect?**
-
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-bajajlagan0501@gmail.com-red?style=for-the-badge)](mailto:bajajlagan0501@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/lagan-bajaj-803355312/)
-
-
-</div>
-
----
 
 <div align="center">
 
